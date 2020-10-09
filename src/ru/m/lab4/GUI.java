@@ -42,7 +42,7 @@ public class GUI extends JFrame {
                 if(cntMadrid>cntMilan) D.setText("Winner Madrid!");
             }
         });
-        setVisible(true);
+        setVisible(true);и
     }
     public static void main(String[]args){
         new GUI();
