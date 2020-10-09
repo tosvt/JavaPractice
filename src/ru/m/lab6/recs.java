@@ -1,4 +1,4 @@
-package ru.m.lab_5;
+package ru.m.lab6;
 
 import java.util.*;
 
