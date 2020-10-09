@@ -43,6 +43,7 @@ public class GUI extends JFrame {
             }
         });
         setVisible(true);
+        System.out.println("a");
     }
     public static void main(String[]args){
         new GUI();
