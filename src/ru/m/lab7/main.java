@@ -1,5 +1,5 @@
 package ru.m.lab7;
 
-public class PracticeCollections {
+public class main {
     //in process
 }
