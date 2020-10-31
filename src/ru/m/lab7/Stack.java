@@ -1,7 +1,6 @@
 package ru.m.lab7;
 
 public class Stack {
-
     private int size;
     private int[] stackArray;
     private int top;
