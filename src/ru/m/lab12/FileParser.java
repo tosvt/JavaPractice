@@ -13,7 +13,6 @@ class FileParser {
 
     public static void main(String[] args) throws IOException
     {
-        //path = src/ru.m/lab12/test.txt
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         Scanner scanner = new Scanner(new FileReader(reader.readLine()));
 
